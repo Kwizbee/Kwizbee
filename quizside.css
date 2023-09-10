@@ -1,0 +1,40 @@
+HTML {
+    overflow-x: hidden;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    font-family: "Tungsten-Bold";
+    font-size: 50px;
+}
+
+#background {
+    width:100%;
+    height:100%;
+    background-color:black;
+    margin: 0;
+}
+
+#introduction {
+    width: 100vw;
+    height: 50vh;
+    background-color: #fdbe3f;
+}
+
+#beehive {
+
+}
+
+#information {
+    width: 100vw;
+    height: 100vh;
+    background-color: #0b0000;
+    margin-top:-20vh;
+}
+
+#faq-title {
+    position: absolute;
+    color: #F6EFD9;
+    top: 12.5vh;
+    left: 50vw;
+    transform: translate(-50%, -50%); 
+}
